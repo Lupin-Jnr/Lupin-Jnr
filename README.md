@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 <strong>TECH STACK<strong/>
 <hr>
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
