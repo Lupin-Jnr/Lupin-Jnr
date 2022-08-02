@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lupin-Jnr
-- 👀 I’m interested in becoming a backend developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am a junior front-end developer
+- 🌱 I completed my MBA program at UCW in April 2022.
+- 💞️ I’m currently learning JS. Also eager and ready to learn more languages.
 - 📫 How to reach me: onyekonwuchibuzo@gmail.com
 
 <!---
