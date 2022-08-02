@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lupin-Jnr
-- 👀 I am a junior front-end developer
+- 👀 I'm a junior front-end developer
 - 🌱 I completed my MBA program at UCW in April 2022.
 - 💞️ I’m currently learning JS. Also eager and ready to learn more languages.
 - 📫 How to reach me: onyekonwuchibuzo@gmail.com
